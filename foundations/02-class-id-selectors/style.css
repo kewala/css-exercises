@@ -1,0 +1,16 @@
+#one {
+    color:blue;
+    font-size: 36px;
+}
+#two {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+.class-one {
+    background-color: pink;
+    font-family: Verdana, sans-serif, "DejaVu Sans";
+}
+.class-two {
+    font-size: 24px;
+}
